@@ -12,3 +12,8 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 ◦ `ex4_scientific2.ipynb`  
 ◦ `ex2_scientific1.html`  
 ◦ `ex4_scientific2.html`
+📂 Bài tập tuần 3
+◦ `Pima_Diabetes_Presentation.pptx`
+◦ `Pima_Indians_Diabetes.ipynb`
+◦ `04_exercise_02.ipynb`
+◦ `03_exercise_01.ipynb`
