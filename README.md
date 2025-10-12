@@ -22,3 +22,6 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 ◦ `04_exercise_02.ipynb`
 
 ◦ `03_exercise_01.ipynb`
+
+Bài tập: EDA
+
