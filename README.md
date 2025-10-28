@@ -23,5 +23,9 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 
 ◦ `03_exercise_01.ipynb`
 
-Bài tập: EDA
+📂 Bài tập: EDA
 
+📂 Bài tập tuần 2
+
+◦ `3123580036-Dang Thanh Phuong.docx` 
+◦ `(trên lớp)3123580036-Dang Thanh Phuong.docx` 
