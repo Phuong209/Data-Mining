@@ -24,9 +24,14 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 ◦ `03_exercise_01.ipynb`
 
 📂 Bài tập: EDA
+◦ `[Tutorial]_EDA_Python.ipynb`
 
-📂 Bài tập tuần 2
+📂 Bài tập tuần 9
 
 ◦ `3123580036-Dang Thanh Phuong.docx` 
 
 ◦ `(trên lớp)3123580036-Dang Thanh Phuong.docx` 
+
+📂 Bài tập tuần 11
+◦ `BT3_Bayes_Dang Thanh Phuong-3123580036.docx`
+
