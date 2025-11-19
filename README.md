@@ -33,5 +33,29 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 ◦ `(trên lớp)3123580036-Dang Thanh Phuong.docx` 
 
 📂 Bài tập tuần 11
+
 ◦ `BT3_Bayes_Dang Thanh Phuong-3123580036.docx`
+
+📂 Bài tập tuần 12(tính tay)
+
+◦ `Chapter2-1a.xlsx`
+
+◦ `Chapter2-1b.xlsx`
+
+◦ `Chapter2-2a.xlsx`
+
+◦ `Chapter2-2b.xlsx`
+
+◦ `Chapter2-HW.xlsx`
+
+📂 Bài tập tuần 12(code)
+
+◦  `linear_classification_pinv.ipynb`
+
+◦ `linear_regression_pinv.ipynb`
+
+◦ `linear_regression.ipynb`
+
+◦ `linear_classification.ipynb`
+
 
