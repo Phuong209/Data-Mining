@@ -58,4 +58,12 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 
 ◦ `linear_classification.ipynb`
 
+📂 Bài tập tuần 13(nhóm)-Support Vector Machine
 
+◦  `BT1.ipynb`
+
+◦  `BT2.ipynb`
+
+◦  `BTTH1.ipynb`
+
+◦  `BTTH2.ipynb`
