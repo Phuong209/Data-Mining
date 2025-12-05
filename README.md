@@ -67,3 +67,7 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 ◦  `BTTH1.ipynb`
 
 ◦  `BTTH2.ipynb`
+
+📂 Bài tập tuần 13(tính tay phân cụm)
+
+◦  `PhanCum_Dang Thanh Phuong_3123580036`
