@@ -71,3 +71,9 @@ Bao gồm các bài tập theo từng tuần và code minh họa
 📂 Bài tập tuần 13(tính tay phân cụm)
 
 ◦  `PhanCum_Dang Thanh Phuong_3123580036`
+
+📂 Final Exam
+◦  `CuoiKy_(1)_(1).ipynb`
+
+◦  `weatherAUS.csv`
+
